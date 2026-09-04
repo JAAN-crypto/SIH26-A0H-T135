@@ -42,3 +42,7 @@
 * **Problem Statement Title:*Farmers often face long waiting times, lack of information regarding procurement schedules, and uncertainty about procurement status.*
 * **Theme / Category:*Smart Automation, Software*
 * **Ministry / Organization:*Ministry of Consumer Affairs, Food & Public Distribution, Department of Consumer Affairs (DoCA)*, wherever applicable
+
+## Youtube video link
+https://youtu.be/M4Il5LTBfoE
+
